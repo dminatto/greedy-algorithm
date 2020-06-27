@@ -1,4 +1,4 @@
-#Greedy algorithm
+# Greedy algorithm
 
 ----
 
